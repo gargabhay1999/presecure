@@ -1,0 +1,7 @@
+---
+applications:
+- buildpack: php_buildpack
+  host: PreSecure
+  name: PreSecure
+  memory: 64M
+  stack: cflinuxfs2
