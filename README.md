@@ -1,2 +1,2 @@
 # presecure
-Predict Virus in Your Area Using IBM Watsin Machine Learning Services
+Predict Virus in Your Area Using IBM Watson Machine Learning Services
